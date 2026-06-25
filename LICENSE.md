@@ -1,8 +1,8 @@
 # ライセンス / License
 
-## ソクラテスQA（socratic-qa）方法論
+## ソクラテスQA（socratic-qa）方法論 / Maieutic AI
 
-Copyright (c) 2026 原石工房（ゆう）
+Copyright (c) 2026 原石工房（ゆう）/ Maieutic AI
 
 note: https://note.com/genseki_kobo
 
@@ -22,8 +22,8 @@ note: https://note.com/genseki_kobo
 
 ### 守っていただく条件
 
-- **表示（Attribution）** — 原作者のクレジット（原石工房（ゆう））を表示し、
-  ライセンスへのリンクを示し、変更があった場合はその旨を示してください。
+- **表示（Attribution）** — 原作者のクレジット（原石工房（ゆう）/ Maieutic AI）を
+  表示し、ライセンスへのリンクを示し、変更があった場合はその旨を示してください。
   合理的な方法であれば構いませんが、原作者があなたやあなたの利用を推奨していると
   示唆するような方法は避けてください。
 
@@ -50,10 +50,11 @@ https://creativecommons.org/licenses/by/4.0/deed.ja
 
 ## English Summary
 
-This work, the **socratic-qa methodology**, is licensed under
+This work, the **socratic-qa methodology** (the dialogue specification for
+**Maieutic AI**), is licensed under
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
-Author: Genseki-kobo (Yu) — https://note.com/genseki_kobo
+Author: Genseki-kobo (Yu) / Maieutic AI — https://note.com/genseki_kobo
 
 You are free to share and adapt the material for any purpose, including commercially,
 as long as you give appropriate credit, provide a link to the license, and indicate
