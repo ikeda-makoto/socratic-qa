@@ -17,6 +17,19 @@
 - **位置づけ**：継続的に改訂している「生きたドキュメント」です。
   バージョン履歴と設計の理由は、本文末尾の改善ログに記録しています。
 - **正本**：このリポジトリの `socratic-qa.md` が常に最新版です。
+- **方法論の原理・独自性・考案の経緯**：[`concept.md`](./concept.md) にまとめています。
+  なぜこの方法が効くのか（①〜⑤の循環）、科学的裏付け、既存手法との違い、考案の時系列を記録し、
+  認定タイムスタンプ（2026年6月）で起源を固定しています。
+
+---
+
+## ファイル構成
+
+- [`socratic-qa.md`](./socratic-qa.md) — 対話メソッドの仕様書（正本・常に最新版）。AIに実行させるための指示書。
+- [`concept.md`](./concept.md) — 考案記録。方法論の原理（①〜⑤の循環）、科学的裏付け、独自性、考案の経緯。
+- `socratic-qa-cycle.jpg` — ①〜⑤の循環図。
+- `ソクラテスQA_考案記録20260627.pdf` — 考案記録に認定タイムスタンプ（総務大臣認定事業者）を付与したPDF。起源の証拠。
+- [`LICENSE.md`](./LICENSE.md) — ライセンス（CC BY 4.0）。
 
 ---
 
@@ -25,7 +38,6 @@
 このメソッドは **CC BY 4.0** の下で公開しています。
 読むこと・使うこと・広めることを歓迎します。
 ただし、利用の際は **作者（原石工房（ゆう）/ Maieutic AI）** を明示してください。
-
 詳しくは [LICENSE.md](./LICENSE.md) をご覧ください。
 
 なお、このメソッドは人の主体性を回復するために作られたものです。
@@ -43,3 +55,7 @@ answers directly.
 
 - **Author**: Genseki-kobo (Yu) / Maieutic AI — https://note.com/genseki_kobo
 - **License**: CC BY 4.0 — see [LICENSE.md](./LICENSE.md)
+- **Specification (always latest)**: [`socratic-qa.md`](./socratic-qa.md)
+- **Concept & origin record**: [`concept.md`](./concept.md) — the principle behind the
+  method, its scientific grounding, what makes it distinct, and the record of its
+  conception, with a certified timestamp (June 2026) fixing its origin.
